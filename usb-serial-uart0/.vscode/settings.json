@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "ratio": "c",
+        "cstddef": "c",
+        "cstdio": "c"
+    }
+}
